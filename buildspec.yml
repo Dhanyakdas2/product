@@ -2,10 +2,10 @@ version: 0.2
 
 env:
   secrets-manager:
-    LOGIN:Dhanyakdas2:sonartoken
-    HOST: Dhanyakdas2:host
-    Organization: Dhanyakdas2:organization
-    Project: Dhanyakdas2:projectKey
+    LOGIN:SonarCredentials:sonartoken
+    HOST: SonarCredentials:host
+    Organization: SonarCredentials:organization
+    Project: SonarCredentials:projectKey
 
 phases:
   install:
