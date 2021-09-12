@@ -23,7 +23,7 @@
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
 		<java.version>8</java.version>
-<sonar.projectKey>Dhanyakdas2_dhanya123</sonar.projectKey>
+<sonar.projectKey>Dhanyakdas2_product</sonar.projectKey>
 
 <sonar.organization>Dhanyakdas2</sonar.organization>
 
