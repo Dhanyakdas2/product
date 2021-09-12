@@ -25,7 +25,7 @@
 		<java.version>8</java.version>
 <sonar.projectKey>Dhanyakdas2_product</sonar.projectKey>
 
-<sonar.organization>Dhanyakdas2</sonar.organization>
+<sonar.organization>dhanyak</sonar.organization>
 
 <sonar.host.url>https://sonarcloud.io</sonar.host.url>
 	</properties>
