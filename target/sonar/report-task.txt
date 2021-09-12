@@ -1,0 +1,7 @@
+organization=dhanyakdas2
+projectKey=Dhanyakdas2_dhanya123
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.23159
+dashboardUrl=https://sonarcloud.io/dashboard?id=Dhanyakdas2_dhanya123
+ceTaskId=AXvWWlpxaJreQlDDt56i
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AXvWWlpxaJreQlDDt56i

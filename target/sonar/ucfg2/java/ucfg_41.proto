@@ -1,0 +1,64 @@
+
+ycom.infosys.infymarket.product.dto.SubscribedProdDTO#createEntity()Lcom/infosys/infymarket/product/entity/SubscribedProd;¤
+™D:/Users/abhilash/Downloads/implementation-main-1/implementation-main/fa4/product/src/main/java/com/infosys/infymarket/product/dto/SubscribedProdDTO.java8 8(#"1* 
+1¤
+™D:/Users/abhilash/Downloads/implementation-main-1/implementation-main/fa4/product/src/main/java/com/infosys/infymarket/product/dto/SubscribedProdDTO.java9 9(1œ™
+¤
+™D:/Users/abhilash/Downloads/implementation-main-1/implementation-main/fa4/product/src/main/java/com/infosys/infymarket/product/dto/SubscribedProdDTO.java9! 9(/:
+%04com.infosys.infymarket.product.entity.SubscribedProd"4com.infosys.infymarket.product.entity.SubscribedProd®
+«
+¤
+™D:/Users/abhilash/Downloads/implementation-main-1/implementation-main/fa4/product/src/main/java/com/infosys/infymarket/product/dto/SubscribedProdDTO.java9 9(1
+%1">com.infosys.infymarket.product.entity.SubscribedProd#<init>()V*<
+:
+%04com.infosys.infymarket.product.entity.SubscribedProd±
+®
+¤
+™D:/Users/abhilash/Downloads/implementation-main-1/implementation-main/fa4/product/src/main/java/com/infosys/infymarket/product/dto/SubscribedProdDTO.java9 9(2A
+	subscribe4com.infosys.infymarket.product.entity.SubscribedProd"__id*<
+:
+%04com.infosys.infymarket.product.entity.SubscribedProdßÜ
+¤
+™D:/Users/abhilash/Downloads/implementation-main-1/implementation-main/fa4/product/src/main/java/com/infosys/infymarket/product/dto/SubscribedProdDTO.java: :((
+%2java.lang.String"Scom.infosys.infymarket.product.dto.SubscribedProdDTO#getBuyerid()Ljava/lang/String;*86
+4com.infosys.infymarket.product.dto.SubscribedProdDTO2getBuyerid()‹ˆ
+¤
+™D:/Users/abhilash/Downloads/implementation-main-1/implementation-main/fa4/product/src/main/java/com/infosys/infymarket/product/dto/SubscribedProdDTO.java: :()
+
+%3void"Tcom.infosys.infymarket.product.entity.SubscribedProd#setBuyerid(Ljava/lang/String;)V*C
+A
+	subscribe4com.infosys.infymarket.product.entity.SubscribedProd*
+
+%2java.lang.String2setBuyerid(Ljava/lang/String;)ÝÚ
+¤
+™D:/Users/abhilash/Downloads/implementation-main-1/implementation-main/fa4/product/src/main/java/com/infosys/infymarket/product/dto/SubscribedProdDTO.java; ;(&
+%4java.lang.String"Rcom.infosys.infymarket.product.dto.SubscribedProdDTO#getProdid()Ljava/lang/String;*86
+4com.infosys.infymarket.product.dto.SubscribedProdDTO2getProdid()‰†
+¤
+™D:/Users/abhilash/Downloads/implementation-main-1/implementation-main/fa4/product/src/main/java/com/infosys/infymarket/product/dto/SubscribedProdDTO.java; ;('
+
+%5void"Scom.infosys.infymarket.product.entity.SubscribedProd#setProdid(Ljava/lang/String;)V*C
+A
+	subscribe4com.infosys.infymarket.product.entity.SubscribedProd*
+
+%4java.lang.String2setProdid(Ljava/lang/String;)‘
+Ž
+¤
+™D:/Users/abhilash/Downloads/implementation-main-1/implementation-main/fa4/product/src/main/java/com/infosys/infymarket/product/dto/SubscribedProdDTO.java< <(%
+%6java.lang.Integer"__id*F*D6
+4com.infosys.infymarket.product.dto.SubscribedProdDTO"
+
+quantity
+¤
+™D:/Users/abhilash/Downloads/implementation-main-1/implementation-main/fa4/product/src/main/java/com/infosys/infymarket/product/dto/SubscribedProdDTO.java< <(&
+
+%7void"Vcom.infosys.infymarket.product.entity.SubscribedProd#setQuantity(Ljava/lang/Integer;)V*C
+A
+	subscribe4com.infosys.infymarket.product.entity.SubscribedProd*
+
+%6java.lang.Integer2 setQuantity(Ljava/lang/Integer;)"ì
+¤
+™D:/Users/abhilash/Downloads/implementation-main-1/implementation-main/fa4/product/src/main/java/com/infosys/infymarket/product/dto/SubscribedProdDTO.java= =(C
+A
+	subscribe4com.infosys.infymarket.product.entity.SubscribedProdB86
+4com.infosys.infymarket.product.dto.SubscribedProdDTO
